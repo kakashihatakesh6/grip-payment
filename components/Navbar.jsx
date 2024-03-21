@@ -44,14 +44,8 @@ const Navbar = () => {
           <Link href={"/"}>
             <NavbarItem label="Home" />
           </Link>
-          <Link href={"/planets"}>
-            <NavbarItem label="Planets" />
-          </Link>
-          <Link href={"/movies"}>
-            <NavbarItem label="Movies" />
-          </Link>
-          <Link href={"/characters"}>
-            <NavbarItem label="Characters" />
+          <Link href={"/"}>
+            <NavbarItem label="About Us" />
           </Link>
          
         </div>
